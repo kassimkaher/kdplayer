@@ -20,7 +20,7 @@
 //OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 //SOFTWARE.
 
-part of fijkplayer;
+part of kdplayer;
 
 /// FijkSlider is like Slider in Flutter SDK.
 /// FijkSlider support [cacheValue] which can be used

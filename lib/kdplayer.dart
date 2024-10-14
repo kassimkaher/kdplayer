@@ -21,7 +21,7 @@
 //SOFTWARE.
 //
 
-library fijkplayer;
+library kdplayer;
 
 import 'dart:async';
 import 'dart:collection';
@@ -33,13 +33,13 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-part 'core/fijklog.dart';
 part 'core/fijkoption.dart';
 part 'core/fijkplayer.dart';
 part 'core/fijkplugin.dart';
 part 'core/fijkvalue.dart';
 part 'core/fijkview.dart';
 part 'core/fijkvol.dart';
+part 'core/kdlog.dart';
 part 'ui/panel.dart';
 part 'ui/panel2.dart';
 part 'ui/slider.dart';

@@ -22,7 +22,7 @@
 //SOFTWARE.
 //
 
-part of fijkplayer;
+part of kdplayer;
 
 /// The signature of the [LayoutBuilder] builder function.
 ///
